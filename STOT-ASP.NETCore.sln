@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticFileServer", "StaticFileServer\StaticFileServer.csproj", "{976E44A6-7ED9-4AB1-872F-5516596CF241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMiddleware", "CustomMiddleware\CustomMiddleware.csproj", "{29FB9FE6-6D9B-4BA0-9AAE-C9408533E5A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{976E44A6-7ED9-4AB1-872F-5516596CF241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{976E44A6-7ED9-4AB1-872F-5516596CF241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{976E44A6-7ED9-4AB1-872F-5516596CF241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FB9FE6-6D9B-4BA0-9AAE-C9408533E5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FB9FE6-6D9B-4BA0-9AAE-C9408533E5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FB9FE6-6D9B-4BA0-9AAE-C9408533E5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FB9FE6-6D9B-4BA0-9AAE-C9408533E5A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
